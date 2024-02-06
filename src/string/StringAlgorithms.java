@@ -19,12 +19,33 @@ public class StringAlgorithms {
         return str.toLowerCase().trim().replace(",", "");
     }
 
+    public static void parseContents(String str) {
+        for (char c : str.toCharArray()) {
+            System.out.print(c);
+        }
+
+        for (int i = 0; i < str.length(); i++) {
+            Character c = str.charAt(i);
+            System.out.print(c);
+        }
+    }
+
+    public static boolean isAtEvenIndex(String s, char item) {
+        if (s == null || s.isEmpty()) {
+            return false;
+        }
+//        for (int i = 0; i <= s.length() / 2; i = i + 2) {
+//            if (s.charAt(i) == item) {
+//                return true;
+//            }
+//        }
+//        return false;
+
+        return s.indexOf(item) % 2 == 0;
+    }
+
+
     public static void main(String[] args) {
-//        System.out.println(isUpperCase("MUTHOMI"));
-//        System.out.println(isUpperCase("kalunge"));
-//        System.out.println(isLower("titus"));
-//        System.out.println(isPasswordComplex("Muthomiz2"));
-//        System.out.println(isPasswordComplex("Muthomiz"));
-        System.out.println(normalizeString(" Hello There BUDDY , "));
+        System.out.println(isAtEvenIndex("makena", 'e'));
     }
 }
