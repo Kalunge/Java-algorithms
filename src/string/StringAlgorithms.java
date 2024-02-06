@@ -10,9 +10,18 @@ public class StringAlgorithms {
         return str.chars().allMatch(Character::isLowerCase);
     }
 
+    public static boolean isPasswordComplex(String str) {
+//        .chars method returns a stream of characters
+        return str.chars().anyMatch(Character::isUpperCase)
+                && str.chars().anyMatch(Character::isLowerCase)
+                && str.chars().anyMatch(Character::isDigit);
+    }
+
     public static void main(String[] args) {
         System.out.println(isUpperCase("MUTHOMI"));
         System.out.println(isUpperCase("kalunge"));
         System.out.println(isLower("titus"));
+        System.out.println(isPasswordComplex("Muthomiz2"));
+        System.out.println(isPasswordComplex("Muthomiz"));
     }
 }

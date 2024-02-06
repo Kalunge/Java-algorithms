@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c682b3d0-90ee-42cd-bf4c-3c06c57ae80a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string/StringAlgorithms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/StringAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/StringAlgorithms.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707213045688</updated>
       <workItem from="1707213046709" duration="51000" />
-      <workItem from="1707213116286" duration="2299000" />
+      <workItem from="1707213116286" duration="3237000" />
     </task>
     <servers />
   </component>
