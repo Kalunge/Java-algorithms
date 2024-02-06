@@ -30,6 +30,7 @@ public class StringAlgorithms {
         }
     }
 
+
     public static boolean isAtEvenIndex(String s, char item) {
         if (s == null || s.isEmpty()) {
             return false;
@@ -44,8 +45,28 @@ public class StringAlgorithms {
         return s.indexOf(item) % 2 == 0;
     }
 
+    public static String reverse(String s) {
+        if (s == null || s.isEmpty()) {
+            return s;
+        }
+
+        StringBuilder reversed = new StringBuilder();
+
+        for (int i = s.length() - 1; i >= 0; i--) {
+            reversed.append(s.charAt(i));
+        }
+        return reversed.toString();
+
+    }
+
+    public static String reverseTwo(String s) {
+        StringBuilder sb = new StringBuilder(s);
+        return sb.reverse().toString();
+    }
+
 
     public static void main(String[] args) {
-        System.out.println(isAtEvenIndex("makena", 'e'));
+        System.out.println(reverse(null));
+        System.out.println(reverseTwo("makena"));
     }
 }
