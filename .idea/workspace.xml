@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c682b3d0-90ee-42cd-bf4c-3c06c57ae80a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algos.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/ArrayAlgorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenges/AlgoChallenges.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/StringAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/StringAlgorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algos.md" beforeDir="false" afterPath="$PROJECT_DIR$/algos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ArrayAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ArrayAlgorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AlgoChallenges.executor": "Run",
     "Application.Algorithms.executor": "Run",
     "Application.ArrayAlgorithms.executor": "Run",
     "Application.Main.executor": "Run",
@@ -57,7 +59,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayAlgorithms">
+  <component name="RunManager" selected="Application.AlgoChallenges">
+    <configuration name="AlgoChallenges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.AlgoChallenges" />
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Algorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intro.Algorithms" />
       <module name="java-algorithms" />
@@ -106,6 +121,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlgoChallenges" />
         <item itemvalue="Application.ArrayAlgorithms" />
         <item itemvalue="Application.StringAlgorithms" />
         <item itemvalue="Application.Algorithms" />
@@ -122,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707213045688</updated>
       <workItem from="1707213046709" duration="51000" />
-      <workItem from="1707213116286" duration="10368000" />
+      <workItem from="1707213116286" duration="12507000" />
     </task>
     <servers />
   </component>
