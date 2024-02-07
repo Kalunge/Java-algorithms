@@ -24,3 +24,4 @@ a series of defined instructions that perform a task
 - we can use big-O to describe space complexity
 - for a validation algorithm we return true or false
 - Binary search -> with sorted assumption O(log(n)) time
+- find even in two arrays -> remove duplicates

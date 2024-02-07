@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c682b3d0-90ee-42cd-bf4c-3c06c57ae80a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/challenges/AlgoChallenges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlists/CustomLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlists/LinkedListAlgos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlists/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algos.md" beforeDir="false" afterPath="$PROJECT_DIR$/algos.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/ArrayAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ArrayAlgorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/challenges/AlgoChallenges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/challenges/AlgoChallenges.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +47,7 @@
     "Application.AlgoChallenges.executor": "Run",
     "Application.Algorithms.executor": "Run",
     "Application.ArrayAlgorithms.executor": "Run",
+    "Application.LinkedListAlgos.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.StringAlgorithms.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -59,7 +62,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AlgoChallenges">
+  <component name="RunManager" selected="Application.LinkedListAlgos">
     <configuration name="AlgoChallenges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="challenges.AlgoChallenges" />
       <module name="java-algorithms" />
@@ -99,9 +102,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="LinkedListAlgos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlists.LinkedListAlgos" />
       <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListAlgos" />
         <item itemvalue="Application.AlgoChallenges" />
         <item itemvalue="Application.ArrayAlgorithms" />
         <item itemvalue="Application.StringAlgorithms" />
         <item itemvalue="Application.Algorithms" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707213045688</updated>
       <workItem from="1707213046709" duration="51000" />
-      <workItem from="1707213116286" duration="12507000" />
+      <workItem from="1707213116286" duration="19955000" />
     </task>
     <servers />
   </component>

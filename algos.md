@@ -4,3 +4,8 @@
  - palindrome checker
  - search item from an array
  - Binary search item in a sorted array
+ - reverse an array
+   - reversing
+   - swapping
+ - rotate an array one index to the left
+ - Sum contents of a linked list
