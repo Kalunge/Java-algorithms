@@ -1,5 +1,8 @@
 package string;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 public class StringAlgorithms {
 
     public static boolean isUpperCase(String str) {
@@ -60,13 +63,37 @@ public class StringAlgorithms {
     }
 
     public static String reverseTwo(String s) {
+        if (s == null || s.isEmpty()) {
+            return s;
+        }
         StringBuilder sb = new StringBuilder(s);
         return sb.reverse().toString();
     }
 
+    public static String reverseSentence(String sentence) {
+        if (sentence == null || sentence.isEmpty()) {
+            return "";
+        }
+
+        StringBuilder result = new StringBuilder();
+
+        String[] words = sentence.split(" ");
+
+        for (String word : words) {
+            result.append(reverse(word));
+            result.append(" ");
+        }
+
+        result.trimToSize();
+
+        return result.toString();
+
+
+    }
+
 
     public static void main(String[] args) {
-        System.out.println(reverse(null));
-        System.out.println(reverseTwo("makena"));
+        System.out.println(reverseSentence("Ia am ad boy"));
+
     }
 }
