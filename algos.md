@@ -11,3 +11,4 @@
  - - find even in two arrays -> remove duplicates
  - Sum contents of a linked list
  - print binary numbers -> QUEUE
+ - print next greater element ->STACK

@@ -22,5 +22,7 @@ public class StackAlgorithm {
         System.out.println("End " + stack.pop());
         System.out.println("End " + stack.pop());
         System.out.println("End " + stack.pop());
+
+//        stack.peek()
     }
 }
