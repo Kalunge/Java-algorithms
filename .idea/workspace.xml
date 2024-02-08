@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c682b3d0-90ee-42cd-bf4c-3c06c57ae80a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/stack/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashbased/Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashbased/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashbased/HashBasedAlgorithms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algos.md" beforeDir="false" afterPath="$PROJECT_DIR$/algos.md" afterDir="false" />
     </list>
@@ -43,6 +45,8 @@
     "Application.AlgoChallenges.executor": "Run",
     "Application.Algorithms.executor": "Run",
     "Application.ArrayAlgorithms.executor": "Run",
+    "Application.Challenge.executor": "Run",
+    "Application.HashBasedAlgorithms.executor": "Run",
     "Application.LinkedListAlgos.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.QueueAlgorithm.executor": "Run",
@@ -61,13 +65,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StackAlgorithmChallenge">
-    <configuration name="AlgoChallenges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.AlgoChallenges" />
+  <component name="RunManager" selected="Application.Challenge">
+    <configuration name="Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashbased.Challenge" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.*" />
+          <option name="PATTERN" value="hashbased.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListAlgos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlists.LinkedListAlgos" />
+    <configuration name="HashBasedAlgorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashbased.HashBasedAlgorithms" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlists.*" />
+          <option name="PATTERN" value="hashbased.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Challenge" />
+        <item itemvalue="Application.HashBasedAlgorithms" />
         <item itemvalue="Application.StackAlgorithmChallenge" />
         <item itemvalue="Application.StackAlgorithm" />
         <item itemvalue="Application.QueueAlgorithm" />
-        <item itemvalue="Application.LinkedListAlgos" />
-        <item itemvalue="Application.AlgoChallenges" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +152,7 @@
       <workItem from="1707213046709" duration="51000" />
       <workItem from="1707213116286" duration="21950000" />
       <workItem from="1707311918656" duration="265000" />
-      <workItem from="1707382212714" duration="8028000" />
+      <workItem from="1707382212714" duration="12196000" />
     </task>
     <servers />
   </component>
