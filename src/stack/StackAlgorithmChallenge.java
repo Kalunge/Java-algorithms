@@ -42,9 +42,65 @@ public class StackAlgorithmChallenge {
 
     }
 
+    public static boolean hasMatchingParentheses(String str) {
+        Stack<Character> stack = new Stack<>();
+
+        for (int i = 0; i < str.length(); i++) {
+            char current = str.charAt(i);
+            if (current == '(') {
+                stack.push(current);
+            } else if (current == ')') {
+                if (stack.isEmpty()) {
+                    stack.pop();
+                } else {
+                    return false;
+                }
+            }
+        }
+
+        return stack.isEmpty();
+    }
+
+
+    public static boolean hasMatchingParenthesesTwo(String str) {
+        int parenthesisTracker = 0;
+
+        for (int i = 0; i < str.length(); i++) {
+            char current = str.charAt(i);
+            if (current == '(') {
+                parenthesisTracker++;
+            } else if (current == ')') {
+                if (parenthesisTracker > 0) {
+                    parenthesisTracker--;
+                } else {
+                    return false;
+                }
+            }
+        }
+
+        return parenthesisTracker == 0;
+
+    }
+
+
     public static void main(String[] args) {
-        int[] greaterArr = {16, 7, 2, 15};
-        printNextGreaterNumber(greaterArr);
+//        int[] greaterArr = {16, 7, 2, 15};
+//        printNextGreaterNumber(greaterArr);
+
+
+        System.out.println(hasMatchingParenthesesTwo("((algorithm()))")); // -> true
+        System.out.println(hasMatchingParenthesesTwo("()(algorithm())")); // -> true
+        System.out.println(hasMatchingParenthesesTwo("((algorithm))")); // -> true
+        System.out.println(hasMatchingParenthesesTwo("(algorithm)")); // -> true
+
+        System.out.println();
+
+        System.out.println(hasMatchingParenthesesTwo("(algorithm(")); // -> false
+        System.out.println(hasMatchingParenthesesTwo(")algorithm)")); // -> false
+        System.out.println(hasMatchingParenthesesTwo(")algorithm(")); // -> false
+        System.out.println(hasMatchingParenthesesTwo("algorithm((")); // -> false
+        System.out.println(hasMatchingParenthesesTwo("(algorithm")); // -> false
+        System.out.println(hasMatchingParenthesesTwo("((algorithm)")); // -> false
     }
 
 

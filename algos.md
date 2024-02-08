@@ -12,3 +12,4 @@
  - Sum contents of a linked list
  - print binary numbers -> QUEUE
  - print next greater element ->STACK
+ - determine whether a given piece of text has matching parenthesis -> STACK
