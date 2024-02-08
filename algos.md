@@ -9,3 +9,4 @@
    - swapping
  - rotate an array one index to the left
  - Sum contents of a linked list
+ - print binary numbers -> QUEUE
