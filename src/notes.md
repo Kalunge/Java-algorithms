@@ -24,5 +24,17 @@ a series of defined instructions that perform a task
 - we can use big-O to describe space complexity
 - for a validation algorithm we return true or false
 - Binary search -> with sorted assumption O(log(n)) time
-- find even in two arrays -> remove duplicates
-- enque, deque and peek operations in a queue. -> FIFO
+
+### STACK
+- enqueue -> add item to the end of the queue
+- deque -> remove item from the beginning of the queue
+- peek -> see the next item from the from of the queue
+- 
+### STACK
+- LIFO Last in first Out principle
+- push() -> items on the top
+- pop() -> items off the top
+- the last item pushed onto the stack will be the first item popped off the stack
+- the first item pushed onto the stack will be the last item popped off the stack
+- the main function -? builder -> main
+

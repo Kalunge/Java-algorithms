@@ -8,5 +8,6 @@
    - reversing
    - swapping
  - rotate an array one index to the left
+ - - find even in two arrays -> remove duplicates
  - Sum contents of a linked list
  - print binary numbers -> QUEUE
