@@ -15,4 +15,5 @@
  - determine whether a given piece of text has matching parenthesis -> STACK -> tweak to include angle brackets
  - resolve evaluateRPN -> STACK - use variables
  -  Detect a cyclic linked list -> HashMap/HashSet
- - 
+ - BST implementation
+ - in, pre, post order traversals

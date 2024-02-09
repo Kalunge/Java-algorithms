@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c682b3d0-90ee-42cd-bf4c-3c06c57ae80a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/TreeAlgorithms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trees/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/TreeAnswer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algos.md" beforeDir="false" afterPath="$PROJECT_DIR$/algos.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trees/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trees/TreeAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/TreeAlgorithms.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -55,6 +57,7 @@
     "Application.StackAlgorithm.executor": "Run",
     "Application.StackAlgorithmChallenge.executor": "Run",
     "Application.StringAlgorithms.executor": "Run",
+    "Application.TreeAlgorithms.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -163,11 +166,22 @@
       <workItem from="1707213116286" duration="21950000" />
       <workItem from="1707311918656" duration="265000" />
       <workItem from="1707382212714" duration="12876000" />
-      <workItem from="1707460951311" duration="1106000" />
+      <workItem from="1707460951311" duration="3034000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trees/BinarySearchTree.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

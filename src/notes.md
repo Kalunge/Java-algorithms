@@ -42,3 +42,6 @@ a series of defined instructions that perform a task
 - parent/root and child nodes
 - best case O(log(N))
 - worst case O(N)
+- in order traversal - explore roots before leaves
+- pre-order traversal - explore leaves before roots
+- post-order - explore data sequentially
