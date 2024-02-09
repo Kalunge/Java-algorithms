@@ -14,4 +14,5 @@
  - print next greater element ->STACK
  - determine whether a given piece of text has matching parenthesis -> STACK -> tweak to include angle brackets
  - resolve evaluateRPN -> STACK - use variables
- -  Detect a cyclic linkedlist -> HashMap/HashSet
+ -  Detect a cyclic linked list -> HashMap/HashSet
+ - 

@@ -37,4 +37,8 @@ a series of defined instructions that perform a task
 - the last item pushed onto the stack will be the first item popped off the stack
 - the first item pushed onto the stack will be the last item popped off the stack
 - the main function -? builder -> main
-
+### Tree Algorithms
+- Tree is a collection of nodes
+- parent/root and child nodes
+- best case O(log(N))
+- worst case O(N)
