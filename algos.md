@@ -16,4 +16,6 @@
  - resolve evaluateRPN -> STACK - use variables
  -  Detect a cyclic linked list -> HashMap/HashSet
  - BST implementation
- - in, pre, post order traversals
+ -implement in, pre, post order traversals
+ - findHeight recursively
+ - findHeight non-recursively
