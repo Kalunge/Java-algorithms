@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c682b3d0-90ee-42cd-bf4c-3c06c57ae80a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pattern/stacks/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/stacks/stacks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/hashma/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/hashma/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/hashmap/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +62,7 @@
     "Application.StringAlgorithms.executor": "Run",
     "Application.TreeAlgorithms.executor": "Run",
     "Application.pattern.fastandslow.Demo.executor": "Run",
+    "Application.pattern.hashma.Demo.executor": "Run",
     "Application.pattern.stacks.Demo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -79,20 +81,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.pattern.stacks.Demo">
-    <configuration name="Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashbased.Challenge" />
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hashbased.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.pattern.hashma.Demo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pattern.twopointers.Demo" />
       <module name="java-algorithms" />
@@ -132,6 +121,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pattern.hashma.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.hashma.Demo" />
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.hashma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="pattern.stacks.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pattern.stacks.Demo" />
       <module name="java-algorithms" />
@@ -147,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern.hashma.Demo" />
         <item itemvalue="Application.pattern.stacks.Demo" />
         <item itemvalue="Application.pattern.fastandslow.Demo" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.TreeAlgorithms" />
-        <item itemvalue="Application.Challenge" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +175,7 @@
       <workItem from="1737425818991" duration="3568000" />
       <workItem from="1737444655976" duration="8000" />
       <workItem from="1737512182503" duration="2586000" />
+      <workItem from="1737598466952" duration="2211000" />
     </task>
     <servers />
   </component>
