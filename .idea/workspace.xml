@@ -5,74 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c682b3d0-90ee-42cd-bf4c-3c06c57ae80a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/springBoot/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/Deadlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/DemoThreadUnsafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/Demonstration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/Demonstrations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/MissedSignal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/NonRentrantLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/ParallelCOncurrency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/RaceCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/SequentialExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/ThreadSafeCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/MainDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/backtracking/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/backtracking/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/bfsTree/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/bfsTree/TreeBFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/bfsTree/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/bitwise/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/bitwise/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/customDa/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/customDa/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/cyclicSort/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/cyclicSort/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/dfsTree/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/dfsTree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/dfsTree/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/dynamicProgramming/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/dynamicProgramming/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/graphs/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/graphs/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/greedyTech/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/greedyTech/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/inPlaceLL/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/inPlaceLL/ReverseSecondHalf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/inPlaceLL/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/kwayMerge/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/kwayMerge/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/matrices/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/matrices/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/mergeIntervals/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/mergeIntervals/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/modifiedBs/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/modifiedBs/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/recursion/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/slidingWIndow/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/slidingWIndow/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/subsets/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/subsets/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/topKelements/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/topKelements/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/topologicalSort/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/topologicalSort/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/trie/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/trie/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/twoHeaps/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/twoHeaps/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/whattotrack/Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/whattotrack/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/whattotrack/notes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unionFind/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unionFind/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/RedeclaringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/Reordering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/SemaphoreInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/CompletionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/Demonstration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/DemonstrationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/ExecutorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/ExecutorImplemntation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/PollingFutures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/SleepThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/SumIntegerCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/ThreadInterruption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/ThreadLocalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/ThreadPoolExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/TimerVsThreadpoolExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pattern/hashma/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern/hashma/notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreading/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/notes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,13 +66,16 @@
     "Application.Algorithms.executor": "Run",
     "Application.ArrayAlgorithms.executor": "Run",
     "Application.Challenge.executor": "Run",
+    "Application.CompletionDemo.executor": "Run",
     "Application.Demo (1).executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.DemoThreadUnsafe.executor": "Run",
     "Application.Demonstration.executor": "Run",
+    "Application.DemonstrationDemo.executor": "Run",
     "Application.Demonstrations.executor": "Run",
     "Application.Demonstrator.executor": "Run",
     "Application.Demonstratoro.executor": "Run",
+    "Application.ExecutorExample.executor": "Run",
     "Application.HashBasedAlgorithms.executor": "Run",
     "Application.LinkedListAlgos.executor": "Run",
     "Application.Main.executor": "Run",
@@ -131,15 +84,25 @@
     "Application.MissedSignal.executor": "Run",
     "Application.NonReentrantLockDemo.executor": "Run",
     "Application.ParallelCOncurrency.executor": "Run",
+    "Application.PollingFutures.executor": "Run",
     "Application.QueueAlgorithm.executor": "Run",
     "Application.RaceCondition.executor": "Run",
+    "Application.Reorder.executor": "Run",
+    "Application.Reordering.executor": "Run",
     "Application.ReverseSecondHalf.executor": "Run",
+    "Application.SemaphoreInJava.executor": "Run",
     "Application.SequentialExample.executor": "Run",
+    "Application.SleepThreadExample.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.StackAlgorithm.executor": "Run",
     "Application.StackAlgorithmChallenge.executor": "Run",
     "Application.StringAlgorithms.executor": "Run",
+    "Application.ThreadInterruption.executor": "Run",
+    "Application.ThreadLocal.executor": "Run",
+    "Application.ThreadLocalDemo.executor": "Run",
+    "Application.ThreadPoolExample.executor": "Run",
     "Application.ThreadSafeCounter.executor": "Run",
+    "Application.TimerVsThreadpoolExample.executor": "Run",
     "Application.TreeAlgorithms.executor": "Run",
     "Application.TreeBFS.executor": "Run",
     "Application.multithreading.Demo.executor": "Run",
@@ -154,6 +117,7 @@
     "Application.pattern.stacks.Demo.executor": "Run",
     "Application.pattern.topKelements.Demo.executor": "Run",
     "Application.pattern.whattotrack.Demo.executor": "Run",
+    "Application.sumTaskLambda.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
@@ -171,13 +135,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MissedSignal">
-    <configuration name="Demonstrator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.Demonstrator" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CompletionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.trheads.CompletionDemo" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.*" />
+          <option name="PATTERN" value="multithreading.trheads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demonstratoro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.Demonstratoro" />
+    <configuration name="DemonstrationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.trheads.DemonstrationDemo" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.*" />
+          <option name="PATTERN" value="multithreading.trheads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissedSignal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.MissedSignal" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.trheads.Main" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.*" />
+          <option name="PATTERN" value="multithreading.trheads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonReentrantLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.NonReentrantLockDemo" />
+    <configuration name="ThreadLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.trheads.ThreadLocal" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.*" />
+          <option name="PATTERN" value="multithreading.trheads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadSafeCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.ThreadSafeCounter" />
+    <configuration name="ThreadLocalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.trheads.ThreadLocalDemo" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.*" />
+          <option name="PATTERN" value="multithreading.trheads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MissedSignal" />
-        <item itemvalue="Application.ThreadSafeCounter" />
-        <item itemvalue="Application.NonReentrantLockDemo" />
-        <item itemvalue="Application.Demonstrator" />
-        <item itemvalue="Application.Demonstratoro" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DemonstrationDemo" />
+        <item itemvalue="Application.ThreadLocalDemo" />
+        <item itemvalue="Application.ThreadLocal" />
+        <item itemvalue="Application.CompletionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +265,12 @@
       <workItem from="1744445690257" duration="27328000" />
       <workItem from="1745494857170" duration="1999000" />
       <workItem from="1745561068970" duration="5066000" />
-      <workItem from="1745907318843" duration="1123000" />
+      <workItem from="1745907318843" duration="10410000" />
+      <workItem from="1745993601031" duration="4719000" />
+      <workItem from="1746018570686" duration="600000" />
+      <workItem from="1746024403485" duration="2069000" />
+      <workItem from="1746166788483" duration="10589000" />
+      <workItem from="1746426445286" duration="4652000" />
     </task>
     <servers />
   </component>
@@ -319,6 +288,11 @@
           <url>file://$PROJECT_DIR$/src/trees/BinarySearchTree.java</url>
           <line>27</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/multithreading/trheads/SumIntegerCallable.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

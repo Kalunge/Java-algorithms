@@ -394,8 +394,54 @@ class NonReentrantLock {
 - a combination of two trhead safe classes does not automatically result to a thread safety
 
 
+## Memory Model
+- 
+
+## Setting Up Threads
+- implementing the runnable interface
 
 
+- a task is a logical unit of work
 
+## Executor implementations
+- executors are based on the producer-consumer model
+- sequential processing like one shown below will yield prro throughput
+```java
+   void receiveAndExecuteClientOrders() {
+
+        while (true) {
+            Order order = waitForNextOrder();
+            order.execute();
+        }
+    }
+```
+
+- creating a thread for each processing may be an improvement
+```java
+   void receiveAndExecuteClientOrdersBetter() {
+
+        while (true) {
+            final Order order = waitForNextOrder();
+
+            Thread thread = new Thread(new Runnable() {
+
+                public void run() {
+                    order.execute();
+                }
+            });
+            
+            thread.start();
+        }
+    }
+```
+- However this falls short because 
+  - creating and tearing down threads is expensive
+  - may cause app to be unrespnsive
+  - may spawn off unlimited trheads which is expensive
+- This problem may be solved by  use of threadpools
+
+
+## Types of Thread Pools
+- 
 
 
