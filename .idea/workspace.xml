@@ -5,24 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c682b3d0-90ee-42cd-bf4c-3c06c57ae80a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/multithreading/RedeclaringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/Reordering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/SemaphoreInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/CompletionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/Demonstration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/DemonstrationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/ExecutorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/ExecutorImplemntation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/PollingFutures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/SleepThreadExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/SumIntegerCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/ThreadInterruption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/ThreadLocalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/ThreadPoolExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/TimerVsThreadpoolExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Demonstration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/EnglishGreeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/HindiGreeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/WellWisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/comparotor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/comparotor/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/comparotor/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/predicates/PredicateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/ConcurrentCollectionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/CyclicBarrierDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/notes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -67,6 +62,7 @@
     "Application.ArrayAlgorithms.executor": "Run",
     "Application.Challenge.executor": "Run",
     "Application.CompletionDemo.executor": "Run",
+    "Application.ConcurrentCollectionsDemo.executor": "Run",
     "Application.Demo (1).executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.DemoThreadUnsafe.executor": "Run",
@@ -79,6 +75,7 @@
     "Application.HashBasedAlgorithms.executor": "Run",
     "Application.LinkedListAlgos.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MainBarrier.executor": "Run",
     "Application.MainDemo.executor": "Run",
     "Application.MinStack.executor": "Run",
     "Application.MissedSignal.executor": "Run",
@@ -105,6 +102,8 @@
     "Application.TimerVsThreadpoolExample.executor": "Run",
     "Application.TreeAlgorithms.executor": "Run",
     "Application.TreeBFS.executor": "Run",
+    "Application.WellWisher.executor": "Run",
+    "Application.lambdas.comparotor.Main.executor": "Run",
     "Application.multithreading.Demo.executor": "Run",
     "Application.pattern.customDa.Demo.executor": "Run",
     "Application.pattern.dfsTree.Demo.executor": "Run",
@@ -135,9 +134,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CompletionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.trheads.CompletionDemo" />
+  <component name="RunManager" selected="Application.PredicateDemo">
+    <configuration name="ConcurrentCollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.trheads.ConcurrentCollectionsDemo" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +148,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemonstrationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.trheads.DemonstrationDemo" />
+    <configuration name="MainBarrier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.trheads.MainBarrier" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
@@ -162,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.trheads.Main" />
+    <configuration name="PredicateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.comparotor.PredicateDemo" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.trheads.*" />
+          <option name="PATTERN" value="lambdas.comparotor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.trheads.ThreadLocal" />
+    <configuration name="WellWisher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.WellWisher" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.trheads.*" />
+          <option name="PATTERN" value="lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadLocalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.trheads.ThreadLocalDemo" />
+    <configuration name="lambdas.comparotor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.comparotor.Main" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.trheads.*" />
+          <option name="PATTERN" value="lambdas.comparotor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DemonstrationDemo" />
-        <item itemvalue="Application.ThreadLocalDemo" />
-        <item itemvalue="Application.ThreadLocal" />
-        <item itemvalue="Application.CompletionDemo" />
+        <item itemvalue="Application.PredicateDemo" />
+        <item itemvalue="Application.lambdas.comparotor.Main" />
+        <item itemvalue="Application.WellWisher" />
+        <item itemvalue="Application.ConcurrentCollectionsDemo" />
+        <item itemvalue="Application.MainBarrier" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +269,8 @@
       <workItem from="1746018570686" duration="600000" />
       <workItem from="1746024403485" duration="2069000" />
       <workItem from="1746166788483" duration="10589000" />
-      <workItem from="1746426445286" duration="4652000" />
+      <workItem from="1746426445286" duration="12034000" />
+      <workItem from="1746532005026" duration="1480000" />
     </task>
     <servers />
   </component>
