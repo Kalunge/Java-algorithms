@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c682b3d0-90ee-42cd-bf4c-3c06c57ae80a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Demonstration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/EnglishGreeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/HindiGreeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/WellWisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/comparotor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/comparotor/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/comparotor/PersonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdas/predicates/PredicateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/ConcurrentCollectionsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/trheads/CyclicBarrierDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdas/comparotor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/comparotor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdas/comparotor/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/comparotor/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdas/comparotor/PredicateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/comparotor/PredicateDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +74,7 @@
     "Application.NonReentrantLockDemo.executor": "Run",
     "Application.ParallelCOncurrency.executor": "Run",
     "Application.PollingFutures.executor": "Run",
+    "Application.PredicateDemo.executor": "Run",
     "Application.QueueAlgorithm.executor": "Run",
     "Application.RaceCondition.executor": "Run",
     "Application.Reorder.executor": "Run",
@@ -270,7 +263,7 @@
       <workItem from="1746024403485" duration="2069000" />
       <workItem from="1746166788483" duration="10589000" />
       <workItem from="1746426445286" duration="12034000" />
-      <workItem from="1746532005026" duration="1480000" />
+      <workItem from="1746532005026" duration="3013000" />
     </task>
     <servers />
   </component>
