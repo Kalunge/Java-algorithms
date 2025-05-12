@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c682b3d0-90ee-42cd-bf4c-3c06c57ae80a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lambdas/comparotor/SupplierDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdas/comparotor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/comparotor/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdas/comparotor/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/comparotor/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdas/comparotor/PredicateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/comparotor/PredicateDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +85,7 @@
     "Application.StackAlgorithm.executor": "Run",
     "Application.StackAlgorithmChallenge.executor": "Run",
     "Application.StringAlgorithms.executor": "Run",
+    "Application.SupplierDemo.executor": "Run",
     "Application.ThreadInterruption.executor": "Run",
     "Application.ThreadLocal.executor": "Run",
     "Application.ThreadLocalDemo.executor": "Run",
@@ -124,10 +123,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PredicateDemo">
+  <component name="RunManager" selected="Application.SupplierDemo">
     <configuration name="ConcurrentCollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="multithreading.trheads.ConcurrentCollectionsDemo" />
       <module name="java-algorithms" />
@@ -141,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainBarrier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.trheads.MainBarrier" />
+    <configuration name="PredicateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.comparotor.PredicateDemo" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.trheads.*" />
+          <option name="PATTERN" value="lambdas.comparotor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,8 +154,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.comparotor.PredicateDemo" />
+    <configuration name="SupplierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.comparotor.SupplierDemo" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
@@ -195,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SupplierDemo" />
         <item itemvalue="Application.PredicateDemo" />
         <item itemvalue="Application.lambdas.comparotor.Main" />
         <item itemvalue="Application.WellWisher" />
         <item itemvalue="Application.ConcurrentCollectionsDemo" />
-        <item itemvalue="Application.MainBarrier" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +263,8 @@
       <workItem from="1746024403485" duration="2069000" />
       <workItem from="1746166788483" duration="10589000" />
       <workItem from="1746426445286" duration="12034000" />
-      <workItem from="1746532005026" duration="3013000" />
+      <workItem from="1746532005026" duration="5068000" />
+      <workItem from="1747034497029" duration="1058000" />
     </task>
     <servers />
   </component>
