@@ -7,6 +7,16 @@ public class Person {
     private String country;
     private int yearOfService;
 
+    Person() {
+
+    }
+
+    public Person(String name, int age) {
+        this.name = name;
+        this.age = age;
+
+    }
+
     public Person(String name, int age, String country, int yearOfService) {
         this.name = name;
         this.age = age;
@@ -28,5 +38,21 @@ public class Person {
 
     public int getYearOfService() {
         return yearOfService;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public void setCountry(String country) {
+        this.country = country;
+    }
+
+    public void setYearOfService(int yearOfService) {
+        this.yearOfService = yearOfService;
     }
 }

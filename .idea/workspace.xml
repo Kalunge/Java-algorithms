@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c682b3d0-90ee-42cd-bf4c-3c06c57ae80a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdas/comparotor/SupplierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/comparotor/ConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/comparotor/FunctionalInterfaceDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdas/comparotor/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/comparotor/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +55,7 @@
     "Application.Challenge.executor": "Run",
     "Application.CompletionDemo.executor": "Run",
     "Application.ConcurrentCollectionsDemo.executor": "Run",
+    "Application.ConsumerDemo.executor": "Run",
     "Application.Demo (1).executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.DemoThreadUnsafe.executor": "Run",
@@ -62,6 +65,7 @@
     "Application.Demonstrator.executor": "Run",
     "Application.Demonstratoro.executor": "Run",
     "Application.ExecutorExample.executor": "Run",
+    "Application.FunctionalInterfaceDemo.executor": "Run",
     "Application.HashBasedAlgorithms.executor": "Run",
     "Application.LinkedListAlgos.executor": "Run",
     "Application.Main.executor": "Run",
@@ -127,13 +131,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SupplierDemo">
-    <configuration name="ConcurrentCollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.trheads.ConcurrentCollectionsDemo" />
+  <component name="RunManager" selected="Application.FunctionalInterfaceDemo">
+    <configuration name="ConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.comparotor.ConsumerDemo" />
       <module name="java-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.trheads.*" />
+          <option name="PATTERN" value="lambdas.comparotor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalInterfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.comparotor.FunctionalInterfaceDemo" />
+      <module name="java-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdas.comparotor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,19 +184,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WellWisher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.WellWisher" />
-      <module name="java-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="lambdas.comparotor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdas.comparotor.Main" />
       <module name="java-algorithms" />
@@ -195,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FunctionalInterfaceDemo" />
+        <item itemvalue="Application.ConsumerDemo" />
         <item itemvalue="Application.SupplierDemo" />
         <item itemvalue="Application.PredicateDemo" />
         <item itemvalue="Application.lambdas.comparotor.Main" />
-        <item itemvalue="Application.WellWisher" />
-        <item itemvalue="Application.ConcurrentCollectionsDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +268,9 @@
       <workItem from="1746166788483" duration="10589000" />
       <workItem from="1746426445286" duration="12034000" />
       <workItem from="1746532005026" duration="5068000" />
-      <workItem from="1747034497029" duration="1058000" />
+      <workItem from="1747034497029" duration="4561000" />
+      <workItem from="1747376389025" duration="1000" />
+      <workItem from="1747384267413" duration="2051000" />
     </task>
     <servers />
   </component>
